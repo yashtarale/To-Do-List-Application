@@ -1,2 +1,3 @@
 # To-Do-List-Application
-react Native
+Made with react native
+Find app screenshot and APK file here
